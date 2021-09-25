@@ -268,7 +268,7 @@ export const managers = [
       "location": "Massachusetts",
       "bio": "TBD",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
-      "fantasyStart": "2021,
+      "fantasyStart": 2021,
       "favoriteTeam": "ne", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now",
       "rival": {
