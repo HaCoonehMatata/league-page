@@ -145,7 +145,7 @@ export const managers = [
         link: 3, // manager array number within this array, or null to link back to all managers page
         image: "/managers/rival.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
-      "favoritePlayer": 2505,
+      "favoritePlayer": 167,
       "valuePosition": "TE",
       "rookieOrVets": "Rookies",
       "philosophy": "You Hate to See it",
@@ -254,7 +254,7 @@ export const managers = [
         link: 8, // manager array number within this array, or null to link back to all managers page
         image: "/managers/rival.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
-      "favoritePlayer": 3198,
+      "favoritePlayer": 1234,
       "valuePosition": "RB",
       "rookieOrVets": "Rookies",
       "philosophy": "TBD",
