@@ -103,7 +103,7 @@ export const managers = [
       },
       "favoritePlayer": 2133,
       "valuePosition": "WR",
-      "rookieOrVets": "Rookies",,
+      "rookieOrVets": "Rookies",
       "philosophy": "I touch kids",
       "tradingScale": 6,
       "prefferedContact": "Carrier Pigeon",
