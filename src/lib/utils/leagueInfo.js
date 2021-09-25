@@ -25,157 +25,263 @@ export const managers = [
       "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Sam Cooney",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
+      "location": "Massachusetts",
+      "bio": "TBD",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+      "fantasyStart": "Unknown",
       "favoriteTeam": "kc", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
+      "mode": "Win Now",
       "rival": {
         name: "Kevin", // Can be anything (usually your rival's name)
         link: 3, // manager array number within this array, or null to link back to all managers page
         image: "/managers/rival.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
+      "favoritePlayer": 5917,
+      "valuePosition": "RB",
+      "rookieOrVets": "Rookies",
       "philosophy": "Mecole Hardman is God",
+      "tradingScale": 10,
+      "prefferedContact": "Carrier Pigeon",
     },
     {
       "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Cam Zaborowski",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
+      "location": "Massachusetts",
+      "bio": "TBD",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+      "fantasyStart": "Unknown",
       "favoriteTeam": "ne", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "rival": {
         name: "Kevin", // Can be anything (usually your rival's name)
         link: 3, // manager array number within this array, or null to link back to all managers page
         image: "/managers/rival.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
+      "favoritePlayer": 1848,
+      "valuePosition": "TE",
+      "rookieOrVets": "Rookies",
       "philosophy": "Josh McDaniels is the best OC of all time, and the rightful heir to Belichick's throne.",
+      "tradingScale": 6,
+      "prefferedContact": "Carrier Pigeon",
     },
     {
       "roster": 3,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Zak Rosa",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
+      "location": "Massachusetts",
+      "bio": "TBD",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+      "fantasyStart": "Unknown",
       "favoriteTeam": "ne", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
+      "mode": "Win Now",
       "rival": {
         name: "Lynnette", // Can be anything (usually your rival's name)
         link: 6, // manager array number within this array, or null to link back to all managers page
         image: "/managers/rival.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
+      "favoritePlayer": 167,
+      "valuePosition": "QB",
+      "rookieOrVets": "Rookies",
       "philosophy": "TBD",
+      "tradingScale": 4,
+      "prefferedContact": "Carrier Pigeon",
     },
     {
       "roster": 4,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Kevin Larsen",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
+      "location": "Massachusetts",
+      "bio": "TBD",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+      "fantasyStart": "Unknown",
       "favoriteTeam": "ne", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
+      "mode": "Win Now",
       "rival": {
         name: "Kevin", // Can be anything (usually your rival's name)
         link: 3, // manager array number within this array, or null to link back to all managers page
         image: "/managers/rival.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
+      "favoritePlayer": 2133,
+      "valuePosition": "WR",
+      "rookieOrVets": "Rookies",,
       "philosophy": "I touch kids",
+      "tradingScale": 6,
+      "prefferedContact": "Carrier Pigeon",
     },    
     {
       "roster": 5,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Viv Kniager",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
+      "location": "Massachusetts",
+      "bio": "TBD",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+      "fantasyStart": "Unknown",
       "favoriteTeam": "sf", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
+      "mode": "Win Now",
       "rival": {
         name: "Sam", // Can be anything (usually your rival's name)
         link: 0, // manager array number within this array, or null to link back to all managers page
         image: "/managers/rival.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
-      "philosophy": "TBD",
+      "favoritePlayer": 4217,
+      "valuePosition": "RB",
+      "rookieOrVets": "Rookies",
+      "philosophy": "TDB",
+      "tradingScale": 7,
+      "prefferedContact": "Carrier Pigeon",
     },
     {
       "roster": 6,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Brad Jones",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
+      "location": "Massachusetts",
+      "bio": "TBD",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+      "fantasyStart": "Unknown",
       "favoriteTeam": "ne", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
+      "mode": "Rebuild",
       "rival": {
         name: "Chandler Jones", // Can be anything (usually your rival's name)
         link: 3, // manager array number within this array, or null to link back to all managers page
         image: "/managers/rival.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
-      "philosophy": "You hate to see it",
+      "favoritePlayer": 2505,
+      "valuePosition": "TE",
+      "rookieOrVets": "Rookies",
+      "philosophy": "You Hate to See it",
+      "tradingScale": 7,
+      "prefferedContact": "Carrier Pigeon",
     },
     {
       "roster": 7,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Lynnette Faure",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
+      "location": "Massachusetts",
+      "bio": "TBD", 
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+      "fantasyStart": "Unknown",
       "favoriteTeam": "den", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
+      "mode": "Win Now",
       "rival": {
         name: "Zak", // Can be anything (usually your rival's name)
         link: 2, // manager array number within this array, or null to link back to all managers page
         image: "/managers/rival.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
+      "favoritePlayer": 871,
+      "valuePosition": "RB",
+      "rookieOrVets": "Rookies",
       "philosophy": "*Ostrich Noises*",
+      "tradingScale": 5,
+      "prefferedContact": "Carrier Pigeon",
     },
     {
       "roster": 8,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Brady Hunt",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
+      "location": "Massachusetts",
+      "bio": "TBD",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+      "fantasyStart": "Unknown",
       "favoriteTeam": "ne", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
+      "mode": "Win Now",
       "rival": {
         name: "Rob", // Can be anything (usually your rival's name)
         link: 8, // manager array number within this array, or null to link back to all managers page
         image: "/managers/rival.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
+      "favoritePlayer": 4035,
+      "valuePosition": "RB",
+      "rookieOrVets": "Rookies",
       "philosophy": "Two Moms? That's Gas",
+      "tradingScale": 7,
+      "prefferedContact": "Carrier Pigeon",
     },
     {
       "roster": 9,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Rob Cooney",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
+      "location": "Massachusetts",
+      "bio": "TBD",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+      "fantasyStart": "Unknown",
       "favoriteTeam": "ne", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
+      "mode": "Win Now",
       "rival": {
         name: "Brady", // Can be anything (usually your rival's name)
         link: 7, // manager array number within this array, or null to link back to all managers page
         image: "/managers/rival.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
+      "favoritePlayer": 6768,
+      "valuePosition": "RB",
+      "rookieOrVets": "Rookies",
       "philosophy": "Peanut Butter and Jealous",
+      "tradingScale": 7,
+      "prefferedContact": "Carrier Pigeon",
     },
     {
       "roster": 10,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Mitch Loughlin",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
+      "location": "Massachusetts",
+      "bio": "TBD",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+      "fantasyStart": "Unknown",
       "favoriteTeam": "ne", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
+      "mode": "Win Now",
       "rival": {
         name: "Sam", // Can be anything (usually your rival's name)
         link: 0, // manager array number within this array, or null to link back to all managers page
         image: "/managers/rival.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
+      "favoritePlayer": 4866,
+      "valuePosition": "RB",
+      "rookieOrVets": "Rookies",
       "philosophy": "Outwit, Outplay, Outlast",
+      "tradingScale": 7,
+      "prefferedContact": "Carrier Pigeon"
     },
     {
       "roster": 11,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Ryan Morse",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
+      "location": "Massachusetts",
+      "bio": "TBD",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+      "fantasyStart": "Unknown",
       "favoriteTeam": "ne", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "rival": {
         name: "Rob", // Can be anything (usually your rival's name)
         link: 8, // manager array number within this array, or null to link back to all managers page
         image: "/managers/rival.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
+      "favoritePlayer": 3198,
+      "valuePosition": "RB",
+      "rookieOrVets": "Rookies",
       "philosophy": "TBD",
+      "tradingScale": 6,
+      "prefferedContact": "Carrier Pigeon",
     },
     {
       "roster": 12,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Brendan Burke",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
+      "location": "Massachusetts",
+      "bio": "TBD",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+      "fantasyStart": "Unknown",
       "favoriteTeam": "ne", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
+      "mode": "Win Now",
       "rival": {
         name: "Cam", // Can be anything (usually your rival's name)
         link: 1, // manager array number within this array, or null to link back to all managers page
         image: "/managers/rival.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
-      "philosophy": "TBD",
+      "favoritePlayer": 3198,
+      "valuePosition": "RB",
+      "rookieOrVets": "Rookies",
+      "philosophy": "Two Moms? That's Gas",
+      "tradingScale": 10,
+      "prefferedContact": "Carrier Pigeon",
     },
   ]
   
