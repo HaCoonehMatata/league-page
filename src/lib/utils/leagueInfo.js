@@ -28,7 +28,7 @@ export const managers = [
       "location": "Massachusetts",
       "bio": "TBD",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
-      "fantasyStart": "Unknown",
+      "fantasyStart": 2021,
       "favoriteTeam": "kc", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now",
       "rival": {
@@ -50,7 +50,7 @@ export const managers = [
       "location": "Massachusetts",
       "bio": "TBD",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
-      "fantasyStart": "Unknown",
+      "fantasyStart": 2021,
       "favoriteTeam": "ne", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "rival": {
         name: "Kevin", // Can be anything (usually your rival's name)
@@ -71,7 +71,7 @@ export const managers = [
       "location": "Massachusetts",
       "bio": "TBD",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
-      "fantasyStart": "Unknown",
+      "fantasyStart": 2021,
       "favoriteTeam": "ne", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now",
       "rival": {
@@ -93,7 +93,7 @@ export const managers = [
       "location": "Massachusetts",
       "bio": "TBD",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
-      "fantasyStart": "Unknown",
+      "fantasyStart": 2021,
       "favoriteTeam": "ne", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now",
       "rival": {
@@ -115,7 +115,7 @@ export const managers = [
       "location": "Massachusetts",
       "bio": "TBD",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
-      "fantasyStart": "Unknown",
+      "fantasyStart": 2021,
       "favoriteTeam": "sf", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now",
       "rival": {
@@ -137,7 +137,7 @@ export const managers = [
       "location": "Massachusetts",
       "bio": "TBD",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
-      "fantasyStart": "Unknown",
+      "fantasyStart": 2021,
       "favoriteTeam": "ne", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Rebuild",
       "rival": {
@@ -159,7 +159,7 @@ export const managers = [
       "location": "Massachusetts",
       "bio": "TBD", 
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
-      "fantasyStart": "Unknown",
+      "fantasyStart": 2021,
       "favoriteTeam": "den", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now",
       "rival": {
@@ -181,7 +181,7 @@ export const managers = [
       "location": "Massachusetts",
       "bio": "TBD",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
-      "fantasyStart": "Unknown",
+      "fantasyStart": 2021,
       "favoriteTeam": "ne", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now",
       "rival": {
@@ -203,7 +203,7 @@ export const managers = [
       "location": "Massachusetts",
       "bio": "TBD",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
-      "fantasyStart": "Unknown",
+      "fantasyStart": 2021,
       "favoriteTeam": "ne", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now",
       "rival": {
@@ -225,7 +225,7 @@ export const managers = [
       "location": "Massachusetts",
       "bio": "TBD",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
-      "fantasyStart": "Unknown",
+      "fantasyStart": 2021,
       "favoriteTeam": "ne", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now",
       "rival": {
@@ -247,7 +247,7 @@ export const managers = [
       "location": "Massachusetts",
       "bio": "TBD",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
-      "fantasyStart": "Unknown",
+      "fantasyStart": 2021,
       "favoriteTeam": "ne", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "rival": {
         name: "Rob", // Can be anything (usually your rival's name)
@@ -268,7 +268,7 @@ export const managers = [
       "location": "Massachusetts",
       "bio": "TBD",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
-      "fantasyStart": "Unknown",
+      "fantasyStart": "2021,
       "favoriteTeam": "ne", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now",
       "rival": {
