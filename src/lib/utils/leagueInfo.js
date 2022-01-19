@@ -26,14 +26,14 @@ export const managers = [
       "name": "Sam Cooney",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Massachusetts",
-      "bio": "TBD",
+      "bio": "1x Bramble Bowl Champion (2021)",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2021,
       "favoriteTeam": "kc", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now",
       "rival": {
-        name: "Kevin", // Can be anything (usually your rival's name)
-        link: 3, // manager array number within this array, or null to link back to all managers page
+        name: "Viv", // Can be anything (usually your rival's name)
+        link: 5, // manager array number within this array, or null to link back to all managers page
         image: "/managers/rival.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
       "favoritePlayer": 5917,
@@ -73,7 +73,7 @@ export const managers = [
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2021,
       "favoriteTeam": "ne", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
-      "mode": "Win Now",
+      "mode": "Rebuild",
       "rival": {
         name: "Lynnette", // Can be anything (usually your rival's name)
         link: 6, // manager array number within this array, or null to link back to all managers page
@@ -263,23 +263,23 @@ export const managers = [
     },
     {
       "roster": 12,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "Brendan Burke",
-      "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-      "location": "Massachusetts",
+      "name": "Alex Doble",
+      "tookOver": 2022, // (optional) used if a manager took over a team, delete this line or change to null otherwise
+      "location": "Denver",
       "bio": "TBD",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2021,
       "favoriteTeam": "ne", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now",
       "rival": {
-        name: "Cam", // Can be anything (usually your rival's name)
-        link: 1, // manager array number within this array, or null to link back to all managers page
+        name: "Rob", // Can be anything (usually your rival's name)
+        link: 8, // manager array number within this array, or null to link back to all managers page
         image: "/managers/rival.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
-      "favoritePlayer": 3198,
+      "favoritePlayer": 7648,
       "valuePosition": "RB",
       "rookieOrVets": "Rookies",
-      "philosophy": "Two Moms? That's Gas",
+      "philosophy": "TBD",
       "tradingScale": 10,
       "prefferedContact": "Carrier Pigeon",
     },
