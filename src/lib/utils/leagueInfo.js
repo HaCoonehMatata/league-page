@@ -7,7 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Welcome to The Gridiron Cellar. The inaugural season of the league is here and the battle for the first Bramble Bowl has begun. In an attempt to make this league as interesting it can be, I have created this league homepage to help aid communication, to create a competitive culture for the league, and to make collaboration between team owners as efficient as possible.</p>
+  <p>Welcome to The Gridiron Cellar. The off-season of the league is here and the battle for the first Bramble Bowl has finished. In an attempt to make this league as interesting it can be, I have created this league homepage to help aid communication, to create a competitive culture for the league, and to make collaboration between team owners as efficient as possible.</p>
   <p>I will use this page to make announcements, track league history throughout future seasons, and gather input for league improvements. I hope you all find this site as useful as I intend it to be.</p>
 `;
 
